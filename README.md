@@ -1,0 +1,2 @@
+# interfazpinterest
+Clonación de Pinterest
