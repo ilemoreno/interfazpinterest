@@ -21,6 +21,8 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 
 ### Vista Previa del Proyecto
 
+![Demo](imagenes/Pinteres_captura.png)
+
 ### Contacto
 
 Si te gustaría invitarme a colaborar en un proyecto, contáctame por [LinkedIn.](https://www.linkedin.com/in/ileana-suzel-moreno-guerrero-992a08129/)
